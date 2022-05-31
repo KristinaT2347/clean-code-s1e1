@@ -43,10 +43,10 @@
 }
 
 /* Tasks */
-.new-task-wrapper {
+.main__new-task-wrapper {
     margin-top: 16px;
 }
-.task-list {
+.main__task-list {
     margin: 0;
     padding: 0px;
 }
